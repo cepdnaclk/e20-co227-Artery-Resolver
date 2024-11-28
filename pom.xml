@@ -1,0 +1,64 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.mycompany</groupId>
+    <artifactId>artery_resolver_software</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+<dependencies>
+    <!-- MySQL Connector -->
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.33</version>
+    </dependency>
+    
+    <!-- TensorFlow Java Core API -->
+    <dependency>
+        <groupId>org.tensorflow</groupId>
+        <artifactId>tensorflow-core-platform</artifactId>
+        <version>0.4.0</version>
+    </dependency>
+
+    <!-- TensorFlow Java Data API (optional, depending on your use case) -->
+    <!--
+    <dependency>
+        <groupId>org.tensorflow</groupId>
+        <artifactId>tensorflow-data</artifactId>
+        <version>0.4.0</version>
+    </dependency>
+    -->
+    <dependency>
+        <groupId>org.netbeans.external</groupId>
+        <artifactId>AbsoluteLayout</artifactId>
+      <version>RELEASE210</version>
+    </dependency>
+</dependencies>
+
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                             <Main-Class>inf.doc_login</Main-Class>  </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <exec.mainClass>com.mycompany.artery_resolver_software.doc_login</exec.mainClass>
+    </properties>
+</project>
