@@ -3,7 +3,6 @@
 # Software to analyse FMD of arteries 
 ___
 
-
 ## Overview
 A software to aid analysis of flow mediated dialation of arteries.
 
@@ -17,9 +16,22 @@ Artery Resolver is a software for the estimation of early markers of cardiovascu
 #
 The device is based on an algorithm that identifies the edges of the arterial vessel by analyzing ultrasound scanning video by breaking it into sequences of ultrasound images frames. We have used a machine learning model to enhance the diameter calculation part and an openCV model to calculate flow velocity. The software must be used by trained and qualified personnel, such as laboratory technicians, nurses, physicians and / or sonographers
 ____
+#
+## Key Features
+
+* User management
+Calculating diameter of the artery
+average diameter
+baseline average diameter
+peak diameter
+FMD %
+Calculating the average flow velocity of blood
+User friendly interface
+Database to analyze patient’s results
 
 
 ### Team Members: 
+
 1) E/20/054 - De Croos Rubin M.L. , e20054@eng.pdn.ac.lk
 2) E/20/285 - Perera B.B.M.R. , e20285@eng.pdn.ac.lk
 3) E/20/449 - Wijewardhana A.R.S.S. , e20449@eng.pdn.ac.lk
