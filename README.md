@@ -21,10 +21,10 @@ ____
 
 * User management
 * Calculating diameter of the artery
-* average diameter
-* baseline average diameter
-* peak diameter
-* FMD %
+    * average diameter
+    * baseline average diameter
+    * peak diameter
+    * FMD %
 * Calculating the average flow velocity of blood
 * User friendly interface
 * Database to analyze patient’s results
