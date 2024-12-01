@@ -37,12 +37,16 @@ This is a sample image, to show how to add images to your page. To learn more op
  Software for flow-mediated dilation (FMD) analysis provides automated tools for accurately assessing arterial function by measuring changes in vessel diameter and blood velocity in response to blood flow changes.
 
 ## Other Sub Topics
-
+#
+The Region of Interest (ROI)
 ![WhatsApp Image 2024-12-01 at 16 16 22_cb2a1a99](https://github.com/user-attachments/assets/c8e76861-afc7-41ff-aa9b-d4b05bffde38)
 
-
 ![WhatsApp Image 2024-12-01 at 16 16 22_46ead7a2](https://github.com/user-attachments/assets/bfa90d91-2e44-4940-b24a-8fdf4522073f)
+#
+The graph shows the trend of the time averaged diameter you can obtain after running the diameter calculation part in the software
 ![WhatsApp Image 2024-12-01 at 16 16 20_86d35026](https://github.com/user-attachments/assets/c2bcdbfd-cbe5-4980-9103-26f374660235)
+
+
 
 
 ## Links
