@@ -1,5 +1,5 @@
-![WhatsApp Image 2024-12-01 at 15 15 35_4b692087](https://github.com/user-attachments/assets/53b71f96-391f-4199-8b6c-cf4081028c66)
 
+![WhatsApp Image 2024-12-01 at 15 15 35_d93a2df6](https://github.com/user-attachments/assets/e6858873-f05f-40da-876b-cad9f294ce1d)
 # Software to analyse FMD of arteries 
 ___
 
