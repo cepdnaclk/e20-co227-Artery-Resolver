@@ -7,27 +7,15 @@ ___
 ## Overview
 A software to aid analysis of flow mediated dialation of arteries.
 
-
-Artery Resolver is a software for the estimation of early markers of cardiovascular risk. In 
-
-particular, the software is composed of two main modules of measurement: 
+#
+Artery Resolver is a software for the estimation of early markers of cardiovascular risk. In particular, the software is composed of two main modules of measurement: 
 
     1. Average diameter calculation 
 
     2. Average flow velocity calculation 
     
-
-The device is based on an algorithm that identifies the edges of the arterial vessel by 
-
-analyzing ultrasound scanning video by breaking it into sequences of ultrasound images 
-
-frames. We have used a machine learning model to enhance the diameter calculation part 
-
-and an openCV model to calculate flow velocity. 
-
-The software must be used by trained and qualified personnel, such as laboratory 
-
-technicians, nurses, physicians and / or sonographers
+#
+The device is based on an algorithm that identifies the edges of the arterial vessel by analyzing ultrasound scanning video by breaking it into sequences of ultrasound images frames. We have used a machine learning model to enhance the diameter calculation part and an openCV model to calculate flow velocity. The software must be used by trained and qualified personnel, such as laboratory technicians, nurses, physicians and / or sonographers
 ____
 
 
