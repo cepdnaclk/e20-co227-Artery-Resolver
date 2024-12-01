@@ -44,36 +44,36 @@ The device is based on an algorithm that identifies the edges of the arterial ve
 The software must be used by trained and qualified personnel, such as laboratory technicians, nurses, physicians and / or sonographers.
 
 #
-# Hardware part which is used to get the inputs for the software
+## Hardware part which is used to get the inputs for the software
 ![WhatsApp Image 2024-12-01 at 21 43 31_8f6556f4](https://github.com/user-attachments/assets/03546db5-7157-4135-aee7-d577a5a8950c)
 
-## Interfaces
+# Interfaces
 
-# Login Interface
+## Login Interface
 ![WhatsApp Image 2024-12-01 at 21 43 31_57dd7b7c](https://github.com/user-attachments/assets/68ccf143-3c9d-4e12-9058-8b86f7de7631)
 
-# Doctor Registraton Interface
+## Doctor Registraton Interface
 ![WhatsApp Image 2024-12-01 at 21 43 27_96f77396](https://github.com/user-attachments/assets/d0fe10ea-0cd4-4735-806b-abebe6741104)
 
-# Patient Registration Interface
+## Patient Registration Interface
 ![WhatsApp Image 2024-12-01 at 21 43 32_67ccf15c](https://github.com/user-attachments/assets/f478ae4e-2020-49d3-89c9-6ed6ffc147dc)
 
-# Summerized Report Interface
+## Summerized Report Interface
 ![WhatsApp Image 2024-12-01 at 21 43 28_4671d6fa](https://github.com/user-attachments/assets/fe4dae14-2a1b-4d17-8575-47ca47a65088)
 
 
-## Key Features
+# Key Features
 
-# The Region of Interest (ROI)
+## The Region of Interest (ROI)
 ![WhatsApp Image 2024-12-01 at 16 16 22_cb2a1a99](https://github.com/user-attachments/assets/c8e76861-afc7-41ff-aa9b-d4b05bffde38)
 
 ![WhatsApp Image 2024-12-01 at 16 16 22_46ead7a2](https://github.com/user-attachments/assets/bfa90d91-2e44-4940-b24a-8fdf4522073f)
 
-# The graph shows the trend of the time averaged diameter you can obtain after running the diameter calculation part in the software
+## The graph shows the trend of the time averaged diameter you can obtain after running the diameter calculation part in the software
 
 ![WhatsApp Image 2024-12-01 at 16 16 20_86d35026](https://github.com/user-attachments/assets/c2bcdbfd-cbe5-4980-9103-26f374660235)
 
-# The graph shows the trend of the live time averaged diameter you can obtain after running the flow velocity calculation part in the software
+## The graph shows the trend of the live time averaged diameter you can obtain after running the flow velocity calculation part in the software
 
 ![WhatsApp Image 2024-12-01 at 21 43 29_75447aa4](https://github.com/user-attachments/assets/92161c61-75e5-421f-9ca5-f195fc016901)
 
