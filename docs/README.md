@@ -35,6 +35,13 @@ This is a sample image, to show how to add images to your page. To learn more op
 ## Introduction
 
  Software for flow-mediated dilation (FMD) analysis provides automated tools for accurately assessing arterial function by measuring changes in vessel diameter and blood velocity in response to blood flow changes.
+ Artery Resolver is a software for the estimation of early markers of cardiovascular risk. In particular, the software is composed of two main modules of measurement:
+   Average diameter calculation
+   Average flow velocity calculation
+
+The device is based on an algorithm that identifies the edges of the arterial vessel by analyzing ultrasound scanning video by breaking it into sequences of ultrasound images frames. We have used a machine learning model to enhance the diameter calculation part and an openCV model to calculate flow velocity. 
+
+The software must be used by trained and qualified personnel, such as laboratory technicians, nurses, physicians and / or sonographers.
 
 ## Other Sub Topics
 #
